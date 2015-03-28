@@ -56,7 +56,7 @@ setup(
         "smoke/replay/decoder/recv_prop/dstring.pyx",
         "smoke/replay/decoder/recv_prop/dvector.pyx",
         "smoke/replay/decoder/recv_prop/dvectorxy.pyx",
-        "smoke/replay/decoder/recv_prop/factory.pyx",
+        #"smoke/replay/decoder/recv_prop/factory.pyx",
         "smoke/replay/decoder/string_table.pyx",
         "smoke/replay/demo.pyx",
         "smoke/replay/dispatch.pyx",
